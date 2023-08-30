@@ -1,0 +1,25 @@
+.foto{
+    width: 350px;
+    margin: 50px;
+    padding-left: 100px;
+    
+}
+.Portifolio-content{
+display: flex;
+text-align: center;
+align-items: center;
+margin: 50px;
+
+}
+.texto-portifolio{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 50px;
+}
+.h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    justify-content: center;
+}
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   text-align:  center;
+}

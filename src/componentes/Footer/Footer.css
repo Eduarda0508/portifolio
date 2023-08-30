@@ -3,8 +3,6 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    bottom: 0%;
-    position: fixed;
     width: 100vw;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
@@ -28,7 +26,6 @@ nav{
     margin-right: 100px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   
-
 }
 .img{
     width: 100px;
@@ -39,16 +36,17 @@ nav{
      width: 20px;
      margin-left: 60px;
 }
-.rodapé{
+footer{
     display: flex;
     flex-direction: column;
-    height:120px ;
+    height:350px ;
     justify-content: space-between;
-    width: 70px;
+    width: 100vw;
+
 }
 .imagens{
     display: flex;
     align-items: center;
-    width: 70px;
-    justify-content: space-between;
+    width: 100vw;
+  
 }

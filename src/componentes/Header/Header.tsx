@@ -1,19 +1,21 @@
 import './Header.css'
+import Logo from './../../assets/img/letra-m.png'
 import Link from '../link/Link'
 function Header(){
     return(
         <header>
-             <div><img className='img-logo' src="src\assets\img\Barbie_Logo.svg.png" alt="" /></div>
+             <div><img className='img-logo' src={Logo} alt="" /></div>
+             
             <nav>
                 <ul>
                     <li>
-                        <Link texto='Home'/>
+                        <Link texto='Início'/>
                     </li>
                     <li>
-                        <Link texto='Notícia'/>
+                        <Link texto='Sobre mim'/>
                     </li>
                     <li>
-                        <Link texto='Sobre'/>
+                        <Link texto='Serviços'/>
                     </li>
                     <li>
                         <Link texto='Contato'/>

@@ -17,10 +17,11 @@ header ul li a{
     color: white;
     border: 1px solid rgb(221, 157, 168);
 }
-.img-logo{
-    width: 100px;
-    margin-left: 60px;
-}
 header nav{
+    margin-right: 110px;
+}
+.logo{
+    width: 50px;
+    margin-left: 60px ;
     margin-right: 110px;
 }
