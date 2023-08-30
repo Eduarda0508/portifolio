@@ -2,24 +2,22 @@
     width: 350px;
     margin: 50px;
     padding-left: 100px;
-    
 }
 .Portifolio-content{
-display: flex;
-text-align: center;
-align-items: center;
-margin: 50px;
-
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 50px;
+    background-color: rgba(228, 166, 175, 0.918);
 }
 .texto-portifolio{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin: 50px;
+    margin: 90px;
+    padding: 15px;
+    display: flex;
+
 }
 .h1{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     justify-content: center;
-}
-p{
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-   text-align:  center;
 }

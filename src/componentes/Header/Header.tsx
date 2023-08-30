@@ -4,12 +4,15 @@ import Link from '../link/Link'
 function Header(){
     return(
         <header>
-             <div><img className='img-logo' src={Logo} alt="" /></div>
+             <div><img className='logo' src={Logo} alt="" /></div>
              
             <nav>
                 <ul>
                     <li>
                         <Link texto='Início'/>
+                    </li>
+                    <li>
+                        <Link texto= 'Tecnologias' />
                     </li>
                     <li>
                         <Link texto='Sobre mim'/>

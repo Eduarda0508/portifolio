@@ -3,7 +3,6 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100vw;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
@@ -23,30 +22,25 @@ footer ul li a{
 }
 nav{
     display: flex;
-    margin-right: 100px;
+    /* margin-right: 100px; */
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  
+    
 }
-.img{
-    width: 100px;
-    margin-left: 60px;
+footer{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding: 100px 100px;
+    box-sizing: border-box;
+
 
 }
 .icones-img{
-     width: 20px;
-     margin-left: 60px;
-}
-footer{
-    display: flex;
-    flex-direction: column;
-    height:350px ;
-    justify-content: space-between;
-    width: 100vw;
-
+    width: 30px;
 }
 .imagens{
+    flex: 1;
     display: flex;
-    align-items: center;
-    width: 100vw;
-  
+    gap:40px;
 }
+
