@@ -12,10 +12,11 @@ function Portifolio(){
                     <h1>Venha saber um pouco sobre mim.</h1> 
                       Atualmente tenho 18 anos, sou natural de Naviraí - MS. <br />
                      Sou uma pessoa organizada, proativa, dedicada e sempre busco fazer as coisas com uma boa comunicação e força de vontade. Busco sempre aprender e me cobro muito para que tudo ocorra da maneira correta. 
-                    </p>
-                    
+                    </p>  
             </div>
+            
         </div>
+        
     )
 }
 export default Portifolio

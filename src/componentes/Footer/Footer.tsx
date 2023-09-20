@@ -12,7 +12,7 @@ function Footer(){
             <img className='icones-img' src={Facebook} alt="" />
             <img className='icones-img' src={Instagram} alt="" />
             <img className='icones-img' src={Twitter} alt="" />
-
+         
           </div>
 
             <nav>
@@ -37,9 +37,11 @@ function Footer(){
                 </ul>
                 <ul>
                     <li><h1>Cursos</h1></li>
-                   <li><a href="#">Espanhol</a></li>
-                     <li><a href="#">Programação com Arduino</a></li>
-                     <li><a href="#">Robotica</a></li>
+                    <li><a href="#">Técnico em Informática para Internet</a></li>
+                   <li><a href="#">Espanhol: Língua e Cultura</a></li>
+                     <li><a href="#">Conceitos Básicos de Quimíca</a></li>
+                     <li><a href="#">Desenvolvimento de Jogos 2D com Unity</a></li>
+      
                 
                 </ul>
               
