@@ -24,20 +24,20 @@ export default function Main(){
             id:2,
             titulo: 'Espanhol: Língua e Cultura',
             descricao: 'Saludos y despedidas; datos personales: nombre, Apellido, Apodo; Nacionalidades; Alfabeto; Pronombres Personales y Verbo ser/estar; Número cardinal (0-100); Días de la semana; Meses y estaciones del año; Profesiones; Artículos; Reglas de eufonía; Tratamiento formal e informal; Números Cardinales; Verbos ser y estar.',
-            imagem:'src/assets/img/espanhol.jpg'
+            imagem:'/espanhol.jpg'
     
         },
         {
             id:3,
             titulo: 'Desenvolvimento de Jogos 2D com Unity',
             descricao: 'História e Conceitos de Jogos Eletrônicos; Download e Instalação do Unity; Acesso e uso da Unity Asset Store; Controle de jogos com componentes Físicos; Codificação com Scripts em C#; Animações; Projeto de jogo estilo Shoot UP.',
-            imagem:'src/assets/img/jogo.jpg'    
+            imagem:'/jogo.jpg'    
         },
         {
-            id:3,
+            id:4,
             titulo: 'Técnico em Informática para Internet',
             descricao: 'Desenvolve programas de computador e aplicativos para dispositivos móveis, utiliza ferramentas de desenvolvimento de sistemas para construir soluções que auxiliam o processo de criação de interfaces e aplicativos empregados no comércio e marketing eletrônicos.',
-            imagem:'src/assets/img/tecnico.jpg'   
+            imagem:'/tecnico.jpg'   
         }
     ]
     function TrataTexto(e:React.ChangeEvent<HTMLInputElement>){
