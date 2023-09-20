@@ -16,7 +16,7 @@ export default function Main(){
         {
             id:1,
             titulo:'Conceitos Básicos de Quimíca',
-            descricao: 'Origem e Constituição da matéria; Matéria e as suas propriedades e os processos de separação dos materiais.',
+            descricao: 'Oportunidade de explorar os fundamentos da matéria, compreendendo as interações entre átomos, moléculas e compostos. Aprendem a realizar experimentos em laboratórios, a utilizar equipamentos e técnicas analíticas e a interpretar os resultados obtidos.',
             imagem :'/quimica.jpg'
             
         },
@@ -47,7 +47,7 @@ export default function Main(){
         <>
         <div className="campo_pesquisa">
             <p>Busque um projeto</p>
-            <input type="text" className='botao_pesquisa' placeholder='Pesquise um Projeto' onChange={TrataTexto} />
+            <input type="text" className='botao_pesquisa' placeholder='Pesquise' onChange={TrataTexto} />
             {!texto && <p>Resultados Para:{texto} </p>}
         </div>
         
