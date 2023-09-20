@@ -17,7 +17,7 @@ export default function Main(){
             id:1,
             titulo:'Conceitos Básicos de Quimíca',
             descricao: 'Origem e Constituição da matéria; Matéria e as suas propriedades e os processos de separação dos materiais.',
-            imagem :'src/assets/img/quimica (2).jpg'
+            imagem :'/quimica.jpg'
             
         },
         {
