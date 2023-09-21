@@ -37,12 +37,10 @@ function Footer(){
                 </ul>
                 <ul>
                     <li><h1>Cursos</h1></li>
+                    <li><a href="#">Conceitos Básicos de Quimíca</a></li>
+                    <li><a href="#">Espanhol: Língua e Cultura</a></li>
+                    <li><a href="#">Desenvolvimento de Jogos 2D com Unity</a></li>
                     <li><a href="#">Técnico em Informática para Internet</a></li>
-                   <li><a href="#">Espanhol: Língua e Cultura</a></li>
-                     <li><a href="#">Conceitos Básicos de Quimíca</a></li>
-                     <li><a href="#">Desenvolvimento de Jogos 2D com Unity</a></li>
-      
-                
                 </ul>
               
                 </nav>
