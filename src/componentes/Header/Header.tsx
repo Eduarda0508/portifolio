@@ -1,6 +1,6 @@
 import './Header.css'
 import Logo from './../../assets/img/letra-m.png'
-import Link from '../link/Link'
+import LinkNav from '../linknav/LinkNav'
 function Header(){
     return(
         <header>
@@ -9,19 +9,19 @@ function Header(){
             <nav>
                 <ul>
                     <li>
-                        <Link texto='Início'/>
+                        <LinkNav url="/" texto='Início'/>
                     </li>
                     <li>
-                        <Link texto= 'Tecnologias' />
+                        <LinkNav url="/noticias" texto= 'Tecnologias' />
                     </li>
                     <li>
-                        <Link texto='Sobre mim'/>
+                        <LinkNav url="/sobre" texto='Sobre mim'/>
                     </li>
                     <li>
-                        <Link texto='Serviços'/>
+                        <LinkNav url="/serviços"texto='Serviços'/>
                     </li>
                     <li>
-                        <Link texto='Contato'/>
+                        <LinkNav url="/contato"texto='Contato'/>
                     </li>
                 </ul>
             </nav>

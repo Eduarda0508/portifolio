@@ -1,11 +1,11 @@
 import Imagem from "./../../assets/img/Polish_20230618_220727026.jpg"
-import "./Portifolio.css"
-function Portifolio(){
+import "./Portfolio.css"
+function Portfolio(){
     return(
         <div className="Portifolio-content">
             <img className="foto" src={Imagem} alt="" />
 
-            <div className="texto-portifolio">
+            <div className="texto-portfolio">
                 <h1>Olá <br />
                     Eu sou a Maria Eduarda!</h1>
                      <p>
@@ -19,4 +19,4 @@ function Portifolio(){
         
     )
 }
-export default Portifolio
+export default Portfolio

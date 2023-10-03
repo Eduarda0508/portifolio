@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src", "src/componentes/Portifolio"],
+  "include": ["src", "src/componentes/Portfolio", "contato"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
