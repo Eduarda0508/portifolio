@@ -1,11 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './main.css'
-import Header from './../componentes/Header/Header'
-import Portfolio from './Portfolio/Portfolio'
-import Main from './../componentes/Main/Main'
-import Contato from './contato/Contato'
-import Footer from './../componentes/Footer/Footer'
+import Header from './componentes/Header/Header'
+import Portfolio from './componentes/Portfolio/Portfolio'
+import Main from './componentes/Main/Main'
+import Contato from './componentes/contato/Contato'
+import Footer from './componentes/Footer/Footer'
 
 import{createBrowserRouter, RouterProvider} from "react-router-dom"
 
